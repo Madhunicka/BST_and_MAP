@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1717524537 source:c:\users\user\videos\ict283 labs\lab11\date.cpp
+	"Date.h"
+
+1717524494 c:\users\user\videos\ict283 labs\lab11\date.h
+	<iostream>
+
+1717542076 source:c:\users\user\videos\ict283 labs\lab11\diff.cpp
+	<iostream>
+	"diff.h"
+	<cmath>
+	<string>
+	<sstream>
+	<fstream>
+
+1717542076 c:\users\user\videos\ict283 labs\lab11\diff.h
+	<iostream>
+	<string>
+	<fstream>
+	<cmath>
+	"Date.h"
+	"Time.h"
+	"VECTOR.H"
+	"BST.H"
+	<map>
+
+1717525032 c:\users\user\videos\ict283 labs\lab11\time.h
+	<iostream>
+	<string.h>
+	<fstream>
+
+1717257856 c:\users\user\videos\ict283 labs\lab11\vector.h
+	<vector>
+	<iostream>
+	<stdexcept>
+
+1717542076 source:c:\users\user\videos\ict283 labs\lab11\main.cpp
+	<iostream>
+	<fstream>
+	"DIFF.H"
+	<string>
+
+1717525125 source:c:\users\user\videos\ict283 labs\lab11\time.cpp
+	<string.h>
+	"time.h"
+
+1717361996 c:\users\user\videos\ict283 labs\lab11\map.h
+	<map>
+	"vector.h"
+
+1717540045 c:\users\user\videos\ict283 labs\lab11\bst.h
+	<iostream>
+	<functional>
+
